@@ -1,15 +1,12 @@
 # Theo-Rapodi-2540988
 readme file for bookstore system
 #THEO QUINTON RAPODI   2540988
-import datetime
 
-# 📚 RAPS Books — Inventory & Sales Management System
+#  RAPS Books — Inventory & Sales Management System
 
 A command-line point-of-sale (POS) application for managing a bookstore's
 inventory, processing customer purchases, and tracking sales history.
-
 ---
-
 ## Features
 
 - **View Inventory** — Displays all available books with prices and stock levels
@@ -18,14 +15,10 @@ inventory, processing customer purchases, and tracking sales history.
 - **Sales History** — Logs all transactions to a file and allows viewing past records
 - **Receipt Generation** — Prints an itemized receipt for each sale including subtotals and discounts
 
----
-
 ## Requirements
 
 - Python 3.6 or higher
 - No external libraries required (uses built-in `datetime` module only)
-
----
 
 ## Getting Started
 
@@ -35,7 +28,5 @@ inventory, processing customer purchases, and tracking sales history.
    python TSTS.py
 ```
 3. The main menu will appear in your terminal.
-
----
 
 ## Usage
